@@ -12,9 +12,9 @@
       "repo": "vllm-project/vllm-omni",
       "ref": "main",
       "path": "recipes",
-      "sha": "fc308a7f4e971b79c5e05838d49935e51e284438",
-      "tree_sha": "04852df429e11df19773a676beacaa07f42e3155",
-      "resolved_at": "2026-11-16T06:08:05.504Z"
+      "sha": "4e7c184bd86265fb3240143ba8f67df66220489a",
+      "tree_sha": "5d7e352cca9d34305257a5be0e3a016911cc16ec",
+      "resolved_at": "2026-11-16T15:59:16.096Z"
     },
     "vllm-ascend": {
       "repo": "vllm-project/vllm-ascend",
